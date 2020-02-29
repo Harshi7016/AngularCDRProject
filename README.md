@@ -1,3 +1,9 @@
+#Hosting of the Project
+
+This project is hosted in Google Cloud Platform and can be observed with the below URL
+
+https://angular-cdr-project.appspot.com/
+
 # Reconcil8operatorB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
